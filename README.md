@@ -5,7 +5,7 @@
 # KURULUM
 - [⚙ Calistirma](#-gerekenler)
 
-#### 🛠 Gerekenler
+#### ⚙ Calistirma
 
 Projeyi indirdikten sonra projenin içinde ki ShadeClient dosyasını açmanız yeterli olacaktır.
 
